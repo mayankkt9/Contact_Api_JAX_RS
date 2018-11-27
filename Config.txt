@@ -25,37 +25,3 @@ delete by email
 
 
 
-Twitter
-
-Put request to in memory databases - redis
-precomputed homepage when some follower tweets - replicated 3 times
-100 followers
-problem 2 million follower, reaction coming first , this solved my mixed approach mysql + load time data given.
-
-Trie - DS
-
-
-tinyurl
-generate random check db
-md5 (storage)
-counter based
-
-
-
-
-whatsapp
-
-constanst server 
-heartbeat info stored in reds distributed cache - user | server | last_time
-in cassandra database
-User table
-user1|user2|convo_id|enckey
-convo tale
-convo_id|time|text|url
-Unread
-from|To|time
-Read 
-
-sip/sdp
-
-
