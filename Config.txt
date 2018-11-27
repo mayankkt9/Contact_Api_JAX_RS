@@ -1,0 +1,61 @@
+downloaded
+tomcat 7
+maven integration for eclipse
+Eclipse juno path /Users/mayankkataruka/Desktop/Work/Android_Project/android/juno
+ https://www.youtube.com/watch?v=DWPN45AJA3k&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI&index=3
+
+
+
+postman
+sequel pro
+mysql system pref
+
+
+
+functionality
+create with email check
+showall
+search by email
+search by name
+update by email
+delete by email
+
+
+
+
+
+
+Twitter
+
+Put request to in memory databases - redis
+precomputed homepage when some follower tweets - replicated 3 times
+100 followers
+problem 2 million follower, reaction coming first , this solved my mixed approach mysql + load time data given.
+
+Trie - DS
+
+
+tinyurl
+generate random check db
+md5 (storage)
+counter based
+
+
+
+
+whatsapp
+
+constanst server 
+heartbeat info stored in reds distributed cache - user | server | last_time
+in cassandra database
+User table
+user1|user2|convo_id|enckey
+convo tale
+convo_id|time|text|url
+Unread
+from|To|time
+Read 
+
+sip/sdp
+
+

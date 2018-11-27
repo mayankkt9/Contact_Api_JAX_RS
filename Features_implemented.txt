@@ -1,0 +1,28 @@
+
+
+CRUD
+
+READ
+	GET showall					-> 	READ ALL CONTACTS
+	GET searchByEmail/may@gmail.com		->	SEARCH ALL CONTACTS BY EMAIL
+	GET searchByName/vivek			-> 	SEARCH ALL CONTACTS BY NAME
+	GET searchByNamePagination/vivek/1	->	SEARCH BY NAME PAGINATION
+
+CREATE
+	POST create					->	CREATE CONTACTS
+UPDATE
+	PUT update					->	UPDATE CONTACTS BY EMAIL
+DELETE
+	DELETE deleteByEmail			->	DELETE CONTACTS BY EMAIL
+
+
+
+EACH CONTACT SHOULD HAVE UNIQUE EMAIL ADDRESS ->	 DONE
+Basic Auth 						   ->	 DONE
+Pagination						   -> 	 DONE
+
+
+
+
+unit testing -> 
+Redis ->

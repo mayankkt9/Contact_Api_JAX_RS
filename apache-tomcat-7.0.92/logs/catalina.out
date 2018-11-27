@@ -1,0 +1,90 @@
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.92
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 9 2018 11:07:44 UTC
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.92.0
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.10.5
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_51-b16
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/conf/logging.properties
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92
+Nov 24, 2018 1:53:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/temp
+Nov 24, 2018 1:53:13 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/mayankkataruka/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Nov 24, 2018 1:53:14 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 24, 2018 1:53:14 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 24, 2018 1:53:14 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1200 ms
+Nov 24, 2018 1:53:14 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 24, 2018 1:53:14 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.92
+Nov 24, 2018 1:53:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/docs
+Nov 24, 2018 1:53:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/docs has finished in 797 ms
+Nov 24, 2018 1:53:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/examples
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/examples has finished in 1,897 ms
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/host-manager
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/host-manager has finished in 170 ms
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/manager
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/manager has finished in 173 ms
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/ROOT
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mayankkataruka/Desktop/Application-1/Contact_app_api/apache-tomcat-7.0.92/webapps/ROOT has finished in 89 ms
+Nov 24, 2018 1:53:17 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 24, 2018 1:53:17 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 24, 2018 1:53:17 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3314 ms
+Nov 24, 2018 2:00:33 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 24, 2018 2:00:33 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Nov 24, 2018 2:00:33 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Nov 24, 2018 2:00:33 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 24, 2018 2:00:33 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Nov 24, 2018 2:00:33 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Nov 24, 2018 2:00:33 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Nov 24, 2018 2:00:33 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
