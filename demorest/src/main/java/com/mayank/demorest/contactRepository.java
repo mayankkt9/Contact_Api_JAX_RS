@@ -18,7 +18,7 @@ public class contactRepository {
 	{
 		String url = "jdbc:mysql://localhost:3306/contact_db";
 		String user = "root";
-		String password = "Mayank@1881";
+		String password = "your_password";
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 			con=DriverManager.getConnection(url, user, password);
